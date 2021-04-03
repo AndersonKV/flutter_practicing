@@ -1,4 +1,9 @@
 # flutter_id
 
-praticando um pouco de flutter
-<img src="app.png"/>
+<p center>
+  praticando um pouco de flutter
+</br>
+<img src="app.png" width="200"/>
+
+</p>
+ 
